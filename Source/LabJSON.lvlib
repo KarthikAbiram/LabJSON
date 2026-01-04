@@ -21,8 +21,8 @@
 		<Item Name="Sample" Type="Folder">
 			<Item Name="SampleVI.vi" Type="VI" URL="../Example/Sample/SampleVI.vi"/>
 		</Item>
-		<Item Name="GetJSONFromVI.vi" Type="VI" URL="../Example/GetJSONFromVI.vi"/>
-		<Item Name="LabJSONExample.vi" Type="VI" URL="../Example/LabJSONExample.vi"/>
+		<Item Name="ExampleGetSetJSON.vi" Type="VI" URL="../Example/ExampleGetSetJSON.vi"/>
+		<Item Name="ExampleLabJSONRunVI.vi" Type="VI" URL="../Example/ExampleLabJSONRunVI.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Settings.ctl" Type="VI" URL="../Typedefs/Settings.ctl"/>
